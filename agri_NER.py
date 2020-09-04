@@ -3,6 +3,8 @@
 ! pip install pytorch-crf
 '''
 pytorch版本 == 1.4.0
+代码是在colab环境中运行的
+使用了一块 Tesla V100(16G)显卡
 '''
 
 import pandas as pd
