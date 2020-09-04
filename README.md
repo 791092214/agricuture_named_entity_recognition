@@ -1,3 +1,5 @@
+# 科大讯飞农业问答数据——命名实体识别
+
 ## 任务描述
 此次任务，是对农业问答数据进行实体命名，原始的训练集数据就是data文件夹里的[train.csv](https://github.com/791092214/agricuture_named_entity_recognition/blob/master/data/train.csv)文件。任务就是使用这些数据进行模型的训练，从而对测试集，也就是data文件夹中的[test.csv](https://github.com/791092214/agricuture_named_entity_recognition/blob/master/data/test.csv)中数据进行命名实体识别。
 
