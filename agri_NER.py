@@ -1,6 +1,9 @@
 ! pip install transformers
 ! pip install zhon
 ! pip install pytorch-crf
+'''
+pytorch版本 == 1.4.0
+'''
 
 import pandas as pd
 import numpy as np
