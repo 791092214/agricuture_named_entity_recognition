@@ -22,7 +22,7 @@ import random
 raw_data = pd.read_csv('/content/drive/My Drive/Colab Notebooks/agriculture_NER/data/train.csv',encoding = 'utf-8')
 raw_data_text = raw_data['text']
 
-# 数据预处理
+################ 数据预处理 #################
 
 def is_Chinese(word):
     for ch in word:
@@ -116,7 +116,7 @@ validation = validation.reset_index(drop=True) # 这一步很关键，必须设�
 df_data = df_data.iloc[0:size_of_train]  # 训练集
 df_data = df_data.reset_index(drop=True)
 
-# 数据增强
+######################## 数据增强 #############################
 
 raw_data = raw_data.iloc[0:size_of_train]
 
@@ -182,7 +182,7 @@ raw_data_for_enhancement_df['target'] = df_data['target']
 df_data = pd.concat([df_data,raw_data_for_enhancement_df])
 df_data = df_data.reset_index(drop = True)
 
-# 模型构建与参数设置
+###################### 模型构建与参数设置 #################################
 
 MAX_LEN = 512
 TRAIN_BATCH_SIZE = 4 # 当模型是normal的时候，train_batch_size是 16
@@ -268,7 +268,7 @@ class agri_ner_model(nn.Module):
 model = agri_ner_model()
 model.to(device)
 
-# 设置优化器，以及warm_up策略
+################## 设置优化器，以及设置warm_up策略 ##########################
 
 from transformers import AdamW
 no_decay = ['bias', 'LayerNorm.weight']
@@ -296,7 +296,7 @@ scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps, num_tra
 
 best_f1_score = -100
 
-# 开始训练
+###################### 开始训练 #####################################
 
 for epoch in range(EPOCHS):
     model.train()
