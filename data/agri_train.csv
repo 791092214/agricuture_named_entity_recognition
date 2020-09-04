@@ -1,0 +1,22 @@
+id,text,n_crop,n_disease,n_medicine
+1-Jan,疫病危害/n_disease ，建议选用/n_new 68·75%霜霉威/n_medicine 盐/n ·/w 氟/n 吡/w 菌胺/n_medicine 悬浮液/n_new 剂/ng 800倍/q 液/ng 、/wn 50%烯酰吗啉/n_medicine 可/v 湿性粉剂/n_medicine 1000倍/q 液/ng 等/udeng 喷施防治/n_new 。/wj ,[],['疫病危害'],"['霜霉威', '菌胺', '烯酰吗啉', '湿性粉剂']"
+1-Feb,疫病/n_disease 炭疽病/n_disease 为害/v ，用/p 银法利/nrf 和/cc 苯甲溴菌腈/n_medicine 喷雾/n_new 防治/vn 。/wj ,[],"['疫病', '炭疽病']",['苯甲溴菌腈']
+1-Mar,炭疽病/n_disease 危害/v 使用/v 肟菌戊唑醇/n_medicine 或/c 苯甲丙环唑/n_medicine 防治/vn ,[],['炭疽病'],"['肟菌戊唑醇', '苯甲丙环唑']"
+2-Jan,高温灼伤/n_disease 或/c 药害/n_new 等/udeng 外力/n 损伤造成/n_new 的/ude1 ，不/d 是/vshi 病菌/n 性病/n 害/n 。/wj 可/v 选用/v 碧护/n_medicine 或/c 阿泰灵/nr 等/udeng 喷施/n_new 缓解/n_new 。/wj ,[],['高温灼伤'],['碧护']
+2-Feb,日/ng 灼/vg 斑/n 。/wj 叶面喷施/n_new 碧护/n_medicine 和/cc 螯合钙/n_medicine 。/wj ,[],[],"['碧护', '螯合钙']"
+2-Mar,疫病/n_disease 及/cc 炭疽病/n_disease 危害/v 使用/v 银法利/nrf +肟菌戊唑醇/n_medicine 防治/v ,[],"['疫病', '炭疽病']",['肟菌戊唑醇']
+3-Jan,激素类农药/n_new 药害/n_new 。/wj 可/v 喷施/n_new 氨基酸/n_medicine 水溶肥/n_medicine 缓解/n_new 。/wj ,[],[],"['氨基酸', '水溶肥']"
+3-Feb,用药不当/n_disease ，叶面喷施/n_new 碧护/n_medicine 或/c 芸苔素内酯/n_medicine 缓解/n_new 。/wj ,[],['用药不当'],"['碧护', '芸苔素内酯']"
+3-Mar,如果/c 大面积/d 发生/v ，考虑温度不适/n_new 或/c 药害/n_new 导致/v 叶面/n 可用/v 碧护/n_medicine +磷酸二氢钾/n_medicine 或/c 氨基酸叶面肥/n_medicine 调节/n_new ,[],[],"['碧护', '磷酸二氢钾', '氨基酸叶面肥']"
+4-Jan,药害/n_new ，叶面喷施/n_new 氨基酸/n_medicine 十芸苔素/n_medicine 或/c 碧护/n_medicine 缓解/n_new 。/wj ,[],[],"['氨基酸', '十芸苔素', '碧护']"
+4-Feb,用药不当/n_disease ，叶面喷施/n_new 碧护/n_medicine 或/c 芸苔素内酯/n_medicine 缓解/n_new 。/wj ,[],['用药不当'],"['碧护', '芸苔素内酯']"
+4-Mar,用药不当/n_disease 导致/v 的/ude1 喷施/n_new 碧护/n_medicine 缓解/n_new ,[],['用药不当'],['碧护']
+5-Jan,缺/v 镁/n ，叶面喷施/n_new 碧护/n_medicine 和/cc 螯合/n_new 镁/n 。/wj ,[],[],['碧护']
+5-Feb,霜霉病/n_disease ，可用/v 啶氧菌酯/n_medicine 、/wn 唑/x 醚/n ·/w 霜脲氰/n_medicine 、/wn 唑/x 醚/n ·/w 代森联/n_medicine 、/wn 王铜/n_medicine ·/w 甲霜灵/n_medicine 、/wn 烯酰/n_medicine ·/w 嘧菌酯/n_medicine 、/wn 烯酰/n_medicine ·/w 丙森锌/n_medicine 防治/vn ,[],['霜霉病'],"['啶氧菌酯', '霜脲氰', '代森联', '王铜', '甲霜灵', '烯酰', '嘧菌酯', '烯酰', '丙森锌']"
+5-Mar,不/d 是/vshi 病理/n 性病/n 害/ng ，使用/v 氨基酸/n_medicine 或/c 海藻酸/n_medicine 叶面肥/n_medicine 加云/n_new 台/n 素/ag 内/f 脂/w 喷雾/n_new 调理/v 一下/mq 。/wj ,[],[],"['氨基酸', '海藻酸', '叶面肥']"
+6-Jan,根系受损/n_disease ,[],['根系受损'],[]
+6-Mar,根系发育不良/n_disease 吸收能力/n_new 差/ng 造成/v 的/ude1 生理性/n_new 萎蔫/vi 。/wj 可/v 冲施/n_new 海藻酸/n_medicine 或/c 甲壳素/n_medicine 等/udeng ，改良土壤/n_new 、/wn 促根壮苗/n_new 。/wj ,[],['根系发育不良'],"['海藻酸', '甲壳素']"
+7-Jan,是/vshi 疫病/n_disease ，用/p 银法利/nrf ，烯酰吗啉/n_medicine 喷雾/n_new 防治/vn 。/wj ,[],['疫病'],['烯酰吗啉']
+7-Feb,疫病危害/n_disease 使用/v 银法利/nrf 或/c 克露/n_medicine 或/c 增威/nr 赢/v 绿/a 防治/vn ,[],['疫病危害'],['克露']
+7-Mar,辣椒/n_crop 疫病/n_disease ，可用/v 烯酰/n_medicine ·/w 代森联/n_medicine 、/wn 唑/x 醚/n ·/w 代森联/n_medicine 、/wn 丙森/nr2 ·/w 霜脲氰/n_medicine 、/wn 霜霉威/n_medicine 、/wn 烯酰/n_medicine ·/w 嘧菌酯/n_medicine 、/wn 恶/a 酮/w ·/w 霜脲氰/n_medicine 防治/v ,['辣椒'],['疫病'],"['烯酰', '代森联', '代森联', '霜脲氰', '霜霉威', '烯酰', '嘧菌酯', '霜脲氰']"
+8-Jan,日/b 灼/ag 。/wj 平衡/a 肥水/n 供应/vn ，幼果期/n_new 补硼/n_medicine 补钙/n_new 。/wj ,[],[],['补硼']
